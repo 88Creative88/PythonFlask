@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/67e96d53-5650-4659-97a6-d082296b4c99/resourceGroups/REST/providers/Microsoft.Web/sites/fhprojekt",
+    "appService.deploySubpath": "."
+}
